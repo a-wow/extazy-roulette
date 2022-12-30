@@ -1,24 +1,24 @@
 # VanillaRoulette.js
 -------------
 
-`VanillaRoulette.js` - vanilla JavaScript library, which designed to rotate horizontal roulettes
+`VanillaRoulette.js` - vanilla JavaScript библиотека, предназначенная для горизонтальных поворотов рулеток
 
-## DEMO
+## Демонстрация
 
-You can see demo [here](https://kir-antipov.github.io/VanillaRoulette/sample/index.html) :)
+Вы можете посмотреть демо-версию [здесь](https://kir-antipov.github.io/VanillaRoulette/sample/index.html) :)
 
-## Usage
+## Использование
 
-Using `VanillaRoulette.js` is really simple:
+Использовать `VanillaRoulette.js` это действительно просто:
 
- 1. **Link** `CSS` and `JS` to your page:
+ 1. **Привяжите** `CSS` и `JS` к своей странице:
 
 ```html
 <link href="libs/vanillaRoulette/vanillaRoulette.min.css" rel="stylesheet">
 <script src="libs/vanillaRoulette/vanillaRoulette.min.js"></script>
 ```
 
-2. **Create** a container for roulette and fill it with content blocks (you can use any tag filled with any content):
+2. **Создайте** контейнер для рулетки и заполните его блоками контента (вы можете использовать любой тег, заполненный любым контентом):
 
 ```html
 <div id="roulette">
@@ -29,14 +29,14 @@ Using `VanillaRoulette.js` is really simple:
 </div>
 ```
 
- 3. **Initialize** the roulette (simply pass a unique selector to the `Roulette` constructor):
+ 3. **Инициализируйте** рулетку (просто передайте уникальный сектор для конструктора `Рулетки`):
  
  ```js
  let roulette = new Roulette("#roulette");
  ```
  
-  4. **Profit**
+  4. **Профит**
 
 <br>
   
-`VanillaRoulette` has a number of configurable options, so you're welcome to visit our [Wiki](https://github.com/Kir-Antipov/VanillaRoulette/wiki)!)
+`VanillaRoulette` имеет ряд настраиваемых опций, so you're welcome to visit our [Wiki](https://github.com/Kir-Antipov/VanillaRoulette/wiki)!)
