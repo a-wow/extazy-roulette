@@ -5,7 +5,7 @@
 
 ## Демонстрация
 
-Вы можете посмотреть демо-версию [здесь](https://kir-antipov.github.io/VanillaRoulette/sample/index.html) :)
+Вы можете посмотреть демо-версию [здесь](https://extazywowr.a-wow.repl.co) :)
 
 ## Использование
 
@@ -35,8 +35,3 @@
  let roulette = new Roulette("#roulette");
  ```
  
-  4. **Профит**
-
-<br>
-  
-`VanillaRoulette` имеет ряд настраиваемых опций, so you're welcome to visit our [Wiki](https://github.com/Kir-Antipov/VanillaRoulette/wiki)!)
