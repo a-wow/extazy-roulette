@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2019 Kir_Antipov
+Copyright (c) 2022 A-WoW
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
